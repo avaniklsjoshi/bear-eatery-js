@@ -22,6 +22,6 @@ npm run watch:js
 npm run watch:scss
 ```
 
-===============================
-    "serve": "npm run build; npm run watch:js -- & > /dev/null 2>&1; npm run watch:scss -- & > /dev/null 2>&1; lite-server"
+===============in package.json file================
+"serve": "npm run build; npm run watch:js -- & > /dev/null 2>&1; npm run watch:scss -- & > /dev/null 2>&1; lite-server"
 
