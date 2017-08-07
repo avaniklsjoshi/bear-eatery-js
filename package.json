@@ -1,0 +1,23 @@
+{
+  "name": "bear-eatery-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avaniklsjoshi/bear-eatery-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avaniklsjoshi/bear-eatery-js/issues"
+  },
+  "homepage": "https://github.com/avaniklsjoshi/bear-eatery-js#readme",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
